@@ -1,8 +1,8 @@
 ## Description
 
-As an engineer I need to tune my laptop to have its best performance.
+As an engineer I need to tune my laptop to run at its best performance.
 
-## The laptop
+## Specification
 
 is... pretty old. It's at least 7 years old. 
 Its memory capacity is 8GB. How about its cpu? 
