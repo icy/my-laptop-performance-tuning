@@ -1,6 +1,6 @@
 ## Description
 
-As SRE, I need to tune my laptop to have its best performance.
+As an engineer I need to tune my laptop to have its best performance.
 
 ## The laptop
 
