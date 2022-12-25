@@ -12,4 +12,11 @@ until it isn't.
 
 ## Firefox
 
-TODO
+Most of the time I can't read/view two tabs at the same time, and my eyes wouldn't be faster than any cpu unit. So I slow down firefox and still see the same results. Interesting that the defaults settings are very high and really make firefox hang on my laptop.
+
+* dom.ipc.plugins.processLaunchTimeoutSecs=1
+* dom.ipc.processCount=1
+* dom.ipc.processCount.webIsolated=1
+* dom.ipc.processCount.webLargeAllocation=1
+* dom.ipc.processPrelaunch.fission.number=1
+* avascript.options.concurrent_multiprocess_gcs.cpu_divisor=1
