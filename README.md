@@ -14,7 +14,7 @@ This is just enough for daiyl web surfing... until it isn't.
 
 Most of the time I can't read/view two tabs at the same time, 
 and my eyes wouldn't be faster than any cpu unit. 
-When I slow down firefox and still see the same results. 
+When I slow down firefox I still see the same results. 
 It's interesting that the defaults settings are very high 
 and really make firefox hang on my laptop.
 
